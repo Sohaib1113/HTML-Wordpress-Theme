@@ -20,6 +20,9 @@ add_action('after_setup_theme','university_featuures');
 
 
 
+
+
+
 // MYCPT
 function register_branch_locator_post_type() {
     $labels = array(
